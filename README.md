@@ -13,7 +13,8 @@
 <!-- We used HTML & CSS, also using normalize to reset the browsers settings and iconomoon for the icons. We sectioned the CSS files into base, icons, layout, and modules. -->
 
 ## Change Log
-<!-- 01-09-2018 2:00pm - Application is responsive based on browser size, still working on CSS features and hover. -->
+<!-- 01-09-2018 2:00pm - Application is responsive based on browser size, still working on CSS features and hover. 
+	 01-10-2018 9:00am - Application is functioning properly and responsive based on window size. -->
 
 ## Credits and Collaborations
 <!-- Normalize CSS reset and iconomoon -->
